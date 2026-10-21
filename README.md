@@ -1,65 +1,39 @@
-<div align="center">
+# Lucas Matos da Silva
 
-# Lucas Matos
+**Análise de Dados e Business Intelligence**
 
-**Análise de Dados | Business Intelligence**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmatosdasilva)
+[![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasmatosdasilva)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=3000&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI;An%C3%A1lise+explorat%C3%B3ria+%C2%B7+Dashboards" alt="Python, SQL e Power BI. Análise exploratória e dashboards." />
+Bacharel em Ciência e Tecnologia pela UFMA, graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Trabalho com tratamento e análise de dados, construção de dashboards e apoio à modelagem preditiva.
 
-<a href="https://www.linkedin.com/in/lucasmatosdasilva"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://github.com/lucasmatosdasilva"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
+Na residência em TI da UEMA / MAXX, participei da análise de bases de clientes, seleção de variáveis e desenvolvimento de um modelo de previsão de churn, com apresentação dos resultados em Power BI. No Programa Trilhas Inova, trabalhei com organização de dados e dashboards em Power BI e Looker Studio.
 
-</div>
+## Competências técnicas
 
-## Sobre
+**Análise de Dados e BI**
 
-Bacharel em Ciência e Tecnologia e graduando em Engenharia da Computação pela UFMA, com formação técnica em Desenvolvimento de Sistemas. Tenho experiência com tratamento de dados, análise exploratória e dashboards em Power BI e Looker Studio, incluindo análise de clientes e apoio à modelagem de churn na UEMA / MAXX.
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-30363D?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-30363D?style=flat-square) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-30363D?style=flat-square&logo=looker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-30363D?style=flat-square&logo=tableau&logoColor=white)
 
-Meu foco profissional é **Análise de Dados e BI**, com experiência complementar em programação, sistemas embarcados e educação digital.
+**Ciência de Dados**
 
-## Habilidades
+![Pandas](https://img.shields.io/badge/Pandas-30363D?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-30363D?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-30363D?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-30363D?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-30363D?style=flat-square&logo=jupyter&logoColor=white)
 
-#### Dados e Business Intelligence
+**Desenvolvimento e bancos de dados**
 
-<p>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="44" height="44" alt="Power BI" title="Power BI" />&nbsp;
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="44" height="44" alt="Excel avançado" title="Excel avançado" />&nbsp;
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=dark" height="44" alt="Python, MySQL e SQLite" />
-</p>
+![C](https://img.shields.io/badge/C-30363D?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-30363D?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-30363D?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-30363D?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-30363D?style=flat-square&logo=css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-30363D?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat-square&logo=sqlite&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-D6A600?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**Ferramentas**
 
-#### Ciência de Dados
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-30363D?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Experiência complementar em firmware, integração de sensores e microcontroladores, prototipagem e robótica educacional.
 
-#### Desenvolvimento e Sistemas Embarcados
+## Projetos selecionados
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" height="44" alt="C, C++, Java, JavaScript, HTML e CSS" />
+[**Análise e previsão de churn**](https://github.com/lucasmatosdasilva/Projeto_Churn) — Análise de clientes e classificação de risco de churn, com API em Python e interface web.
 
-![Firmware](https://img.shields.io/badge/Firmware-34495E?style=for-the-badge&logo=esphome&logoColor=white)
-![Sensores e IoT](https://img.shields.io/badge/Sensores%20e%20IoT-087E8B?style=for-the-badge&logo=espressif&logoColor=white)
-![Robótica educacional](https://img.shields.io/badge/Rob%C3%B3tica%20educacional-52525B?style=for-the-badge&logo=probot&logoColor=white)
-
-#### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" height="44" alt="Git, GitHub, VS Code, Linux e Windows" />
-
-## Projetos de dados
-
-**[Análise e previsão de churn](https://github.com/lucasmatosdasilva/Projeto_Churn)**  
-Análise de clientes e classificação de risco de churn, com API em Python e interface web.
-
-**[Análise de dados de filmes](https://github.com/lucasmatosdasilva/LH_CD_LUCASMATOSDASILVA)**  
-Análise exploratória, visualizações e modelagem preditiva de notas do IMDb.
+[**Análise de dados de filmes**](https://github.com/lucasmatosdasilva/LH_CD_LUCASMATOSDASILVA) — Análise exploratória, visualizações e modelagem preditiva de notas do IMDb.
 
 <details>
 <summary>Formação complementar e idiomas</summary>
@@ -72,6 +46,6 @@ Análise exploratória, visualizações e modelagem preditiva de notas do IMDb.
 - Pacote Office Avançado — Fundação Bradesco · 110 h
 - Educação Tecnológica — DogoMaker · 40 h
 
-**Idiomas:** português nativo; inglês e espanhol intermediários.
+Português nativo; inglês e espanhol intermediários.
 
 </details>
