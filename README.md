@@ -2,21 +2,21 @@
 
 # Lucas Matos
 
-**Data Analytics & Business Intelligence**
+**Análise de Dados | Business Intelligence**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Transforming+data+into+actionable+insights.;Python%2C+SQL+and+Business+Intelligence." alt="Transforming data into actionable insights. Python, SQL and Business Intelligence." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=3000&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI;An%C3%A1lise+explorat%C3%B3ria+%C2%B7+Dashboards" alt="Python, SQL e Power BI. Análise exploratória e dashboards." />
 
-[LinkedIn](https://www.linkedin.com/in/lucasmatosdasilva) · [Repositories](https://github.com/lucasmatosdasilva?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/lucasmatosdasilva) · [Repositórios](https://github.com/lucasmatosdasilva?tab=repositories)
 
 </div>
 
-## Profile
+## Sobre
 
-Focused on **data analysis and business intelligence**, with practical experience in data cleaning, exploratory analysis, predictive modeling, and dashboards using **Python, Power BI, and Looker Studio**. Previous work includes customer churn analysis at UEMA / MAXX and data analytics through the Trilhas Inova program.
+Meu foco é análise de dados e Business Intelligence. Tenho experiência com tratamento de bases, análise exploratória e construção de dashboards em Power BI e Looker Studio. Na residência em TI da UEMA / MAXX, trabalhei com dados de clientes, seleção de variáveis e apoio ao desenvolvimento de um modelo de previsão de churn. Também participei do Programa Trilhas Inova na área de Ciência de Dados.
 
-B.Sc. in Science and Technology and Computer Engineering undergraduate at **UFMA**, with technical training in Systems Development. Additional experience in embedded systems and digital education.
+Sou bacharel em Ciência e Tecnologia pela UFMA, graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Minha formação inclui programação, sistemas embarcados e inteligência artificial. Atualmente, atuo como professor de Educação Digital.
 
-## Core Skills
+## Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -25,22 +25,40 @@ B.Sc. in Science and Technology and Computer Engineering undergraduate at **UFMA
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Analytics** — Data cleaning, exploratory data analysis, statistical analysis, data visualization  
-**Business Intelligence** — Power BI, Excel, Looker Studio, Tableau, interactive dashboards  
-**Data Science** — Pandas, NumPy, scikit-learn, Matplotlib, predictive modeling  
-**Databases & Tools** — SQL, MySQL, SQLite, Git, Jupyter, Linux
+| Área | Conhecimentos e ferramentas |
+| :--- | :--- |
+| **Análise de dados** | Limpeza, tratamento e organização de bases, análise exploratória, análises estatísticas e visualização de dados |
+| **Business Intelligence** | Power BI, Excel avançado, Looker Studio, Tableau e dashboards interativos |
+| **Ciência de dados** | Python, Pandas, NumPy, scikit-learn, Matplotlib, seleção de variáveis e modelos preditivos |
+| **Bancos de dados** | SQL, MySQL e SQLite |
+| **Desenvolvimento** | Java, JavaScript, HTML, CSS, C e C++ |
+| **Sistemas embarcados e IoT** | Firmware, integração de sensores e microcontroladores, aquisição de dados, prototipagem e automação |
+| **Ferramentas** | Git, GitHub, Jupyter Notebook, VS Code, Linux e Windows |
+| **Educação tecnológica** | Robótica educacional, pensamento computacional, BNCC Computação e metodologias ativas |
 
-## Additional Skills
+## Projetos de dados
 
-**Development** — Java, JavaScript, HTML/CSS, Python  
-**Embedded Systems & IoT** — C/C++, firmware, microcontrollers, sensors, prototyping  
-**Technology Education** — Digital literacy, computational thinking, educational robotics
+**[Análise e previsão de churn](https://github.com/lucasmatosdasilva/Projeto_Churn)**  
+Análise de dados de clientes e classificação de risco de churn, com API em Python e interface web.
 
-## Selected Analytics Projects
+**[Análise de dados de filmes](https://github.com/lucasmatosdasilva/LH_CD_LUCASMATOSDASILVA)**  
+Análise exploratória, visualizações e modelagem preditiva para estimar notas do IMDb.
 
-- **[Customer Churn Prediction](https://github.com/lucasmatosdasilva/Projeto_Churn)** — Customer data analysis and churn risk classification, with a Python API and web interface.
-- **[Movie Data Analysis](https://github.com/lucasmatosdasilva/LH_CD_LUCASMATOSDASILVA)** — Exploratory analysis, visualizations, and machine learning to predict IMDb ratings.
+<details>
+<summary>Formação complementar e idiomas</summary>
+
+- Ciência de Dados — SECTI/MA · 400 h
+- Inteligência Artificial — FDTE/USP · 360 h
+- Tecnologia da Informação — UEMA/BRISA · 480 h
+- Sistemas Embarcados — SOFTEX/IFMA · 960 h
+- Visão Computacional — Instituto de Pesquisas ELDORADO · 60 h
+- Pacote Office Avançado — Fundação Bradesco · 110 h
+- Educação Tecnológica — DogoMaker · 40 h
+
+**Idiomas:** português nativo; inglês e espanhol intermediários.
+
+</details>
 
 ---
 
-Open to opportunities in **Data Analytics and Business Intelligence**.
+Interesse profissional em **Análise de Dados e Business Intelligence**.
