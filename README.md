@@ -2,9 +2,9 @@
 
 # Lucas Matos
 
-**Data Science · Embedded Systems · Software Development**
+**Data Analytics & Business Intelligence**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Turning+data+into+practical+solutions.;Connecting+software+and+embedded+systems." alt="Turning data into practical solutions. Connecting software and embedded systems." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Transforming+data+into+actionable+insights.;Python%2C+SQL+and+Business+Intelligence." alt="Transforming data into actionable insights. Python, SQL and Business Intelligence." />
 
 [LinkedIn](https://www.linkedin.com/in/lucasmatosdasilva) · [Repositories](https://github.com/lucasmatosdasilva?tab=repositories)
 
@@ -12,28 +12,35 @@
 
 ## Profile
 
-B.Sc. in Science and Technology and Computer Engineering undergraduate at the Federal University of Maranhão (UFMA), with technical training in Systems Development.
+Focused on **data analysis and business intelligence**, with practical experience in data cleaning, exploratory analysis, predictive modeling, and dashboards using **Python, Power BI, and Looker Studio**. Previous work includes customer churn analysis at UEMA / MAXX and data analytics through the Trilhas Inova program.
 
-Practical experience in **data analysis, predictive modeling, business intelligence, and embedded firmware**. Previous work includes customer churn analysis and a wearable safety device developed through IFMA in partnership with Equatorial Energia. Currently teaching digital education and educational robotics.
+B.Sc. in Science and Technology and Computer Engineering undergraduate at **UFMA**, with technical training in Systems Development. Additional experience in embedded systems and digital education.
 
-## Technical Skills
+## Core Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Data & BI** — Pandas, NumPy, scikit-learn, Matplotlib, Power BI, Looker Studio  
-**Embedded Systems** — C/C++, microcontrollers, sensors, firmware, IoT  
-**Development** — Java, JavaScript, HTML/CSS, MySQL, SQLite, Linux
+**Analytics** — Data cleaning, exploratory data analysis, statistical analysis, data visualization  
+**Business Intelligence** — Power BI, Excel, Looker Studio, Tableau, interactive dashboards  
+**Data Science** — Pandas, NumPy, scikit-learn, Matplotlib, predictive modeling  
+**Databases & Tools** — SQL, MySQL, SQLite, Git, Jupyter, Linux
 
-## Selected Work
+## Additional Skills
 
-- **[Customer Churn Prediction](https://github.com/lucasmatosdasilva/Projeto_Churn)** — Customer risk classification with a Python API and web interface.
-- **[Wearable Safety Monitoring](https://github.com/lucasmatosdasilva/Projeto_Equatorial)** — Biometric and motion sensing with Wi-Fi connectivity and remote monitoring.
+**Development** — Java, JavaScript, HTML/CSS, Python  
+**Embedded Systems & IoT** — C/C++, firmware, microcontrollers, sensors, prototyping  
+**Technology Education** — Digital literacy, computational thinking, educational robotics
+
+## Selected Analytics Projects
+
+- **[Customer Churn Prediction](https://github.com/lucasmatosdasilva/Projeto_Churn)** — Customer data analysis and churn risk classification, with a Python API and web interface.
+- **[Movie Data Analysis](https://github.com/lucasmatosdasilva/LH_CD_LUCASMATOSDASILVA)** — Exploratory analysis, visualizations, and machine learning to predict IMDb ratings.
 
 ---
 
-Open to opportunities in data, embedded systems, and software development.
+Open to opportunities in **Data Analytics and Business Intelligence**.
