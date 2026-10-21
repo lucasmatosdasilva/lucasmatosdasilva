@@ -3,7 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmatosdasilva)
 [![GitHub](https://img.shields.io/badge/GitHub-414953?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasmatosdasilva)
 
-Sou Lucas Matos, bacharel em Ciência e Tecnologia pela UFMA, graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Tenho experiência com análise de dados, desenvolvimento e sistemas embarcados. Por aqui, compartilho projetos e estudos nessas áreas.
+## Resumo profissional
+
+Bacharel em Ciência e Tecnologia pela Universidade Federal do Maranhão (UFMA), graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Experiência em análise de dados, Business Intelligence, desenvolvimento de firmware e educação tecnológica.
+
+Atuação em projetos de tratamento e análise de bases de clientes, apoio à modelagem preditiva de churn e elaboração de dashboards em Power BI e Looker Studio, por meio da residência em TI da UEMA / MAXX e do Programa Trilhas Inova. Experiência em sistemas embarcados na residência do IFMA / Equatorial Energia, com programação em C/C++, integração de sensores e prototipagem de dispositivo vestível para segurança de eletricistas. Atualmente, professor de Educação Digital na SEMED, com atividades de pensamento computacional, programação e robótica educacional.
 
 ## Competências técnicas
 
