@@ -6,43 +6,60 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=3000&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI;An%C3%A1lise+explorat%C3%B3ria+%C2%B7+Dashboards" alt="Python, SQL e Power BI. Análise exploratória e dashboards." />
 
-[LinkedIn](https://www.linkedin.com/in/lucasmatosdasilva) · [Repositórios](https://github.com/lucasmatosdasilva?tab=repositories)
+<a href="https://www.linkedin.com/in/lucasmatosdasilva"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://github.com/lucasmatosdasilva"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
 
 </div>
 
 ## Sobre
 
-Meu foco é análise de dados e Business Intelligence. Tenho experiência com tratamento de bases, análise exploratória e construção de dashboards em Power BI e Looker Studio. Na residência em TI da UEMA / MAXX, trabalhei com dados de clientes, seleção de variáveis e apoio ao desenvolvimento de um modelo de previsão de churn. Também participei do Programa Trilhas Inova na área de Ciência de Dados.
+Bacharel em Ciência e Tecnologia e graduando em Engenharia da Computação pela UFMA, com formação técnica em Desenvolvimento de Sistemas. Tenho experiência com tratamento de dados, análise exploratória e dashboards em Power BI e Looker Studio, incluindo análise de clientes e apoio à modelagem de churn na UEMA / MAXX.
 
-Sou bacharel em Ciência e Tecnologia pela UFMA, graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Minha formação inclui programação, sistemas embarcados e inteligência artificial. Atualmente, atuo como professor de Educação Digital.
+Meu foco profissional é **Análise de Dados e BI**, com experiência complementar em programação, sistemas embarcados e educação digital.
 
 ## Habilidades
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+#### Dados e Business Intelligence
 
-| Área | Conhecimentos e ferramentas |
-| :--- | :--- |
-| **Análise de dados** | Limpeza, tratamento e organização de bases, análise exploratória, análises estatísticas e visualização de dados |
-| **Business Intelligence** | Power BI, Excel avançado, Looker Studio, Tableau e dashboards interativos |
-| **Ciência de dados** | Python, Pandas, NumPy, scikit-learn, Matplotlib, seleção de variáveis e modelos preditivos |
-| **Bancos de dados** | SQL, MySQL e SQLite |
-| **Desenvolvimento** | Java, JavaScript, HTML, CSS, C e C++ |
-| **Sistemas embarcados e IoT** | Firmware, integração de sensores e microcontroladores, aquisição de dados, prototipagem e automação |
-| **Ferramentas** | Git, GitHub, Jupyter Notebook, VS Code, Linux e Windows |
-| **Educação tecnológica** | Robótica educacional, pensamento computacional, BNCC Computação e metodologias ativas |
+<p>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="44" height="44" alt="Power BI" title="Power BI" />&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="44" height="44" alt="Excel avançado" title="Excel avançado" />&nbsp;
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=dark" height="44" alt="Python, MySQL e SQLite" />
+</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-D6A600?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+#### Ciência de Dados
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### Desenvolvimento e Sistemas Embarcados
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" height="44" alt="C, C++, Java, JavaScript, HTML e CSS" />
+
+![Firmware](https://img.shields.io/badge/Firmware-34495E?style=for-the-badge&logo=esphome&logoColor=white)
+![Sensores e IoT](https://img.shields.io/badge/Sensores%20e%20IoT-087E8B?style=for-the-badge&logo=espressif&logoColor=white)
+![Robótica educacional](https://img.shields.io/badge/Rob%C3%B3tica%20educacional-52525B?style=for-the-badge&logo=probot&logoColor=white)
+
+#### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" height="44" alt="Git, GitHub, VS Code, Linux e Windows" />
 
 ## Projetos de dados
 
 **[Análise e previsão de churn](https://github.com/lucasmatosdasilva/Projeto_Churn)**  
-Análise de dados de clientes e classificação de risco de churn, com API em Python e interface web.
+Análise de clientes e classificação de risco de churn, com API em Python e interface web.
 
 **[Análise de dados de filmes](https://github.com/lucasmatosdasilva/LH_CD_LUCASMATOSDASILVA)**  
-Análise exploratória, visualizações e modelagem preditiva para estimar notas do IMDb.
+Análise exploratória, visualizações e modelagem preditiva de notas do IMDb.
 
 <details>
 <summary>Formação complementar e idiomas</summary>
@@ -58,7 +75,3 @@ Análise exploratória, visualizações e modelagem preditiva para estimar notas
 **Idiomas:** português nativo; inglês e espanhol intermediários.
 
 </details>
-
----
-
-Interesse profissional em **Análise de Dados e Business Intelligence**.
