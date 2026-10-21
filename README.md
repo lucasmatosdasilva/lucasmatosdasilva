@@ -1,13 +1,9 @@
 # Lucas Matos da Silva
 
-**Análise de Dados e Business Intelligence**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmatosdasilva)
 [![GitHub](https://img.shields.io/badge/GitHub-414953?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasmatosdasilva)
 
-Bacharel em Ciência e Tecnologia pela UFMA, graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Trabalho com tratamento e análise de dados, construção de dashboards e apoio à modelagem preditiva.
-
-Na residência em TI da UEMA / MAXX, participei da análise de bases de clientes, seleção de variáveis e desenvolvimento de um modelo de previsão de churn, com apresentação dos resultados em Power BI. No Programa Trilhas Inova, trabalhei com organização de dados e dashboards em Power BI e Looker Studio.
+Sou Lucas Matos, bacharel em Ciência e Tecnologia pela UFMA, graduando em Engenharia da Computação e técnico em Desenvolvimento de Sistemas. Tenho experiência com análise de dados, desenvolvimento e sistemas embarcados. Por aqui, compartilho projetos e estudos nessas áreas.
 
 ## Competências técnicas
 
